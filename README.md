@@ -1,4 +1,4 @@
 # Pharmacist
 
-# Model
-## Binary Model for L labels
+## Model
+### Binary Model for L labels
